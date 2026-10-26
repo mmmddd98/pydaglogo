@@ -1,0 +1,4 @@
+test_type=fisher
+fasta_path=UniProt_Proteome_Human_2026_01.fasta
+num_subsamples=1
+rand_seed=404

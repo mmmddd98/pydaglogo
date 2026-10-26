@@ -1,0 +1,7 @@
+table	expected_exact_allclose
+difference_raw	True
+statistics_raw	True
+pvalue_raw	True
+background_mean	True
+motif_observed	True
+logo_matrix	True

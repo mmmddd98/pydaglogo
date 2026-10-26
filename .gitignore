@@ -1,0 +1,15 @@
+.pytest_tmp/
+.pytest_cache/
+.test_runs/
+pytest_temp_*/
+docs/_build/
+validation_data/**/generated_outputs*/
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*.pptx
+
+.venv/
+venv/

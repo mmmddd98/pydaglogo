@@ -1,0 +1,4 @@
+test_type=ztest
+fasta_path=UniProt_Proteome_Human_2026_01.fasta
+num_subsamples=300
+rand_seed=404
